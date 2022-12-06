@@ -42,7 +42,8 @@ Temporary Items
 
 # Word Auto Backup File
 Backup of *.doc*
-.docx
+*.docx
+~$*.docx*
 
 # Excel temporary
 ~$*.xls*
