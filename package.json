@@ -1,0 +1,16 @@
+{
+  "name": "cursoecmascrip",
+  "version": "1.0.0",
+  "description": "curso ecmascrip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrip",
+    "ecmascrip",
+    "js"
+  ],
+  "author": "Alejandro van den Bussche <rocketmedia.es@gmail.com>",
+  "license": "MIT"
+}
